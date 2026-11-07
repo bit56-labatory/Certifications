@@ -1,4 +1,4 @@
-This should give you an idea of my skillset...although it doesnt cover everything I develop it gives you the perfect perspective. 
+This should give you an idea of my skillset...
 
 
 # Certifications
