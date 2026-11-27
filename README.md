@@ -10,6 +10,6 @@ Front-End Development Libraries Certification –
 
 Python Certification – 
 
-Relational Databases Certification – 
+Relational Databases Certification – In Progress
 
-Back-End Development and API’s Certification – 
+Back-End Development and API’s Certification – In Progres
