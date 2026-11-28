@@ -12,4 +12,4 @@ Python Certification –
 
 Relational Databases Certification – In Progress
 
-Back-End Development and API’s Certification – In Progres
+Back-End Development and API’s Certification – In Progress
